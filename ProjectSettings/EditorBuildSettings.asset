@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/New Scene.unity
+    guid: c81438e612bb4ea4987b4bf5c0243aac
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lose.unity
+    guid: 946e2dea494646343be6435dbd0452c7
+  - enabled: 1
+    path: "Assets/Yeni klas\xF6r (2)/KAZANDIN.unity"
+    guid: 6ddd4862e4fc8ba488b7e9a8be2359e9
   m_configObjects: {}
